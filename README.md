@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN stack,odin project**
 
-- 📝 Currently planning to start writing on [Medium](Medium)
-
 - 💬 Ask me about **Technical but not about phycology**
 
 - 📫 How to reach me **alagarashwin31@gmail.com**
