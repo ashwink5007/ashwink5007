@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code+&pause=1000&color=2FC400&width=435&lines=Hi+%2C+there+;I'm+AlagarAshwin;B.tech+Information+technology+Student+" alt="Typing SVG" /></a>
-# 💫 About Me:
-<br>Full-stack web development projects and AI/ML-based applications, focusing on real-world problem solving and deployment.<br><br><br>Open-source projects, hackathons, and innovative ideas related to Web Development, Machine Learning, and AI applications.<br><br><br>Improving my DSA & problem-solving skills, advanced ML model optimization, and industry-ready project architecture.<br><br><br>Advanced Web Development with Ai (Frontend + Backend), Machine Learning and Data Structures & Algorithms.<br><br><br>HTML, CSS, JavaScript, Python, basic Java, Machine Learning concepts, and beginner-friendly project ideas.<br><br><br>I love turning ideas into working projects and learning new technologies faster by building rather than just reading 
-
+About me : 
+I build full-stack web apps and AI/ML projects—because solving real-world problems sounded easier than ignoring them.
+Open-source, hackathons, and collaborations keep me busy while I pretend DSA and ML optimization aren’t testing my patience daily.
+I learn by building, breaking, and rebuilding, because reading tutorials alone never felt stressful enough.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alagar-ashwin-k-625444283) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@alagar ashwin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alagarashwin.k@gmail.com) 
