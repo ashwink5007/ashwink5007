@@ -23,6 +23,12 @@ I learn by building, breaking, and rebuilding, because reading tutorials alone n
 ![RAM](https://img.shields.io/badge/RAM-16GB-DDD?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/System-x64_64--bit-black?style=for-the-badge)
 
+
+# LeetCode Status:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ashwin_2305007?theme=dark&font=Baloo)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashwink5007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
