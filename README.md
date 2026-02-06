@@ -16,6 +16,13 @@ I learn by building, breaking, and rebuilding, because reading tutorials alone n
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwink5007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwink5007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# Work Spec: 
+![Windows](https://img.shields.io/badge/OS-Windows_64--bit-0078D6?style=for-the-badge&logo=windows)
+![AMD](https://img.shields.io/badge/CPU-AMD_Ryzen_7_7445HS-ED1C24?style=for-the-badge&logo=amd)
+![Radeon](https://img.shields.io/badge/GPU-AMD_Radeon_740M-ED1C24?style=for-the-badge&logo=amd)
+![RAM](https://img.shields.io/badge/RAM-16GB-DDD?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/System-x64_64--bit-black?style=for-the-badge)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashwink5007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
