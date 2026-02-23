@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code+&pause=1000&color=2FC400&width=435&lines=Hi+%2C+there+;I'm+AlagarAshwin;B.tech+Information+technology+Student+" alt="Typing SVG" /></a>
 
-About me : 
 I build full-stack web apps and AI/ML projects—because solving real-world problems sounded easier than ignoring them.
 Open-source, hackathons, and collaborations keep me busy while I pretend DSA and ML optimization aren’t testing my patience daily.
 I learn by building, breaking, and rebuilding, because reading tutorials alone never felt stressful enough.
